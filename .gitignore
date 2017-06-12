@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 sap-ui-cachebuster-info.json
 extended_runnable_file.html
@@ -10,3 +11,6 @@ visual_ext_index.html
 /webapp/visual_ext_index.html
 UIAdaptation_index.html
 changes_preview.js
+=======
+$ git push -u
+>>>>>>> branch 'master' of https://github.com/PaGut/Test.git
