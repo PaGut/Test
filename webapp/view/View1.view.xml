@@ -4,6 +4,7 @@
 			<Page title="{i18n>title}">
 				<content>
 					<Label text="test"></Label>
+					<Button text="test"></Button>
 				</content>
 			</Page>
 		</pages>
