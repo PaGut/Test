@@ -4,8 +4,6 @@
 			<Page title="{i18n>title}">
 				<content>
 					<Label text="Test Change"></Label>
-					<Button text="test1"></Button>
-					<Button text="test2"></Button>
 				</content>
 			</Page>
 		</pages>
