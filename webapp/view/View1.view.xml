@@ -4,7 +4,6 @@
 			<Page title="{i18n>title}">
 				<content>
 					<Label text="Test Change"></Label>
-					<Label text="Test Change2"></Label>
 				</content>
 			</Page>
 		</pages>
